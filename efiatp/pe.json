@@ -5,7 +5,7 @@
         "color": "HEADER, UNDERLINE",
         "variables": {
           "e_magic": {"color": "OKGREEN, BOLD", "addr": "0x00", "size": 2},
-          "e_lfnew": {"color": "OKCYAN, BOLD", "addr": "0x3C", "size": 4},
+          "e_lfnew": {"color": "OKCYAN, BOLD", "addr": "0x3C", "size": 4}
         }
       }
   }
