@@ -139,5 +139,5 @@
 | EM_ST200          | `00 64`           | Микроконтроллер STMicroelectronics ST200              |
 
 # Ресурсы
-- https://refspecs.linuxfoundation.org/elf/gabi4+/ch4.eheader.html
-- https://ru.wikipedia.org/wiki/Executable_and_Linkable_Format
+- [Официальная документация на Linux Foundation](https://refspecs.linuxfoundation.org/elf/gabi4+/ch4.eheader.html)
+- [Статья на Wikipedia](https://ru.wikipedia.org/wiki/Executable_and_Linkable_Format)
